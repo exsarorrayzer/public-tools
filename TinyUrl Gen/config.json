@@ -1,0 +1,7 @@
+{
+  "pattern": "https://tinyurl\\.com/[a-z0-9]{7}",
+  "count": 1500,
+  "log_file": "logs/tinyurl.log",
+  "proxy_file": "proxies.txt",
+  "test_proxies": true
+}
